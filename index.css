@@ -1,0 +1,27 @@
+h1{
+    font-size: 36px;
+    color: #e22b80;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+
+p{
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    font-size: x-large;
+}
+
+button{
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+.output{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
